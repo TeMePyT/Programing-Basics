@@ -1,0 +1,6 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_on_Rectangle_Border\bin\Debug\Point_on_Rectangle_Border.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_on_Rectangle_Border\obj\Debug\Point_on_Rectangle_Border.pdb

@@ -1,0 +1,7 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Trade_Comissions\bin\Debug\Trade_Comissions.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Trade_Comissions\bin\Debug\Trade_Comissions.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Trade_Comissions\bin\Debug\Trade_Comissions.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Trade_Comissions\obj\Debug\Trade_Comissions.csprojResolveAssemblyReference.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Trade_Comissions\obj\Debug\Trade_Comissions.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Trade_Comissions\obj\Debug\Trade_Comissions.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Trade_Comissions\obj\Debug\Trade_Comissions.pdb

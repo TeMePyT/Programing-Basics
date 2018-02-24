@@ -1,0 +1,6 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_In_Rectangle\bin\Debug\Point_In_Rectangle.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_In_Rectangle\bin\Debug\Point_In_Rectangle.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_In_Rectangle\bin\Debug\Point_In_Rectangle.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_In_Rectangle\obj\Debug\Point_In_Rectangle.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_In_Rectangle\obj\Debug\Point_In_Rectangle.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Point_In_Rectangle\obj\Debug\Point_In_Rectangle.pdb

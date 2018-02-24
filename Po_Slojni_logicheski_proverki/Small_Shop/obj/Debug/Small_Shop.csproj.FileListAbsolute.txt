@@ -1,0 +1,7 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Small_Shop\obj\Debug\Small_Shop.csprojResolveAssemblyReference.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Small_Shop\obj\Debug\Small_Shop.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Small_Shop\bin\Debug\Small_Shop.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Small_Shop\bin\Debug\Small_Shop.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Small_Shop\bin\Debug\Small_Shop.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Small_Shop\obj\Debug\Small_Shop.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Small_Shop\obj\Debug\Small_Shop.pdb
