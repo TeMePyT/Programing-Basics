@@ -1,0 +1,6 @@
+D:\Programirane\LogicheskiProverki\Speed_info\bin\Debug\Speed_info.exe.config
+D:\Programirane\LogicheskiProverki\Speed_info\bin\Debug\Speed_info.exe
+D:\Programirane\LogicheskiProverki\Speed_info\bin\Debug\Speed_info.pdb
+D:\Programirane\LogicheskiProverki\Speed_info\obj\Debug\Speed_info.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Speed_info\obj\Debug\Speed_info.exe
+D:\Programirane\LogicheskiProverki\Speed_info\obj\Debug\Speed_info.pdb

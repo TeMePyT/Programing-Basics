@@ -1,0 +1,6 @@
+D:\Programirane\LogicheskiProverki\Numer_100-200\bin\Debug\Numer_100-200.exe.config
+D:\Programirane\LogicheskiProverki\Numer_100-200\bin\Debug\Numer_100-200.exe
+D:\Programirane\LogicheskiProverki\Numer_100-200\bin\Debug\Numer_100-200.pdb
+D:\Programirane\LogicheskiProverki\Numer_100-200\obj\Debug\Numer_100-200.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Numer_100-200\obj\Debug\Numer_100-200.exe
+D:\Programirane\LogicheskiProverki\Numer_100-200\obj\Debug\Numer_100-200.pdb

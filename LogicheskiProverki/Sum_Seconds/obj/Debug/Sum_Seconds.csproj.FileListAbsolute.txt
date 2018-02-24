@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Sum_Seconds\bin\Debug\Sum_Seconds.exe.config
+D:\Programirane\LogicheskiProverki\Sum_Seconds\bin\Debug\Sum_Seconds.exe
+D:\Programirane\LogicheskiProverki\Sum_Seconds\bin\Debug\Sum_Seconds.pdb
+D:\Programirane\LogicheskiProverki\Sum_Seconds\obj\Debug\Sum_Seconds.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\Sum_Seconds\obj\Debug\Sum_Seconds.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Sum_Seconds\obj\Debug\Sum_Seconds.exe
+D:\Programirane\LogicheskiProverki\Sum_Seconds\obj\Debug\Sum_Seconds.pdb

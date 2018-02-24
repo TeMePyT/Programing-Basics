@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Pipes_in_Pool\bin\Debug\Pipes_in_Pool.exe.config
+D:\Programirane\LogicheskiProverki\Pipes_in_Pool\bin\Debug\Pipes_in_Pool.exe
+D:\Programirane\LogicheskiProverki\Pipes_in_Pool\bin\Debug\Pipes_in_Pool.pdb
+D:\Programirane\LogicheskiProverki\Pipes_in_Pool\obj\Debug\Pipes_in_Pool.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\Pipes_in_Pool\obj\Debug\Pipes_in_Pool.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Pipes_in_Pool\obj\Debug\Pipes_in_Pool.exe
+D:\Programirane\LogicheskiProverki\Pipes_in_Pool\obj\Debug\Pipes_in_Pool.pdb
