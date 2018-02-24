@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Triangle_Of_$\bin\Debug\Triangle_Of_$.exe.config
+D:\Programirane\Risuvane_S_Cikli\Triangle_Of_$\bin\Debug\Triangle_Of_$.exe
+D:\Programirane\Risuvane_S_Cikli\Triangle_Of_$\bin\Debug\Triangle_Of_$.pdb
+D:\Programirane\Risuvane_S_Cikli\Triangle_Of_$\obj\Debug\Triangle_Of_$.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Triangle_Of_$\obj\Debug\Triangle_Of_$.exe
+D:\Programirane\Risuvane_S_Cikli\Triangle_Of_$\obj\Debug\Triangle_Of_$.pdb
+D:\Programirane\Risuvane_S_Cikli\Triangle_Of_$\obj\Debug\Triangle_Of_$.csprojResolveAssemblyReference.cache

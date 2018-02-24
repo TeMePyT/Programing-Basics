@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Zaplata_2ri_Opit\bin\Debug\Zaplata_2ri_Opit.exe.config
+D:\Programirane\Risuvane_S_Cikli\Zaplata_2ri_Opit\bin\Debug\Zaplata_2ri_Opit.exe
+D:\Programirane\Risuvane_S_Cikli\Zaplata_2ri_Opit\bin\Debug\Zaplata_2ri_Opit.pdb
+D:\Programirane\Risuvane_S_Cikli\Zaplata_2ri_Opit\obj\Debug\Zaplata_2ri_Opit.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Zaplata_2ri_Opit\obj\Debug\Zaplata_2ri_Opit.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Zaplata_2ri_Opit\obj\Debug\Zaplata_2ri_Opit.exe
+D:\Programirane\Risuvane_S_Cikli\Zaplata_2ri_Opit\obj\Debug\Zaplata_2ri_Opit.pdb
