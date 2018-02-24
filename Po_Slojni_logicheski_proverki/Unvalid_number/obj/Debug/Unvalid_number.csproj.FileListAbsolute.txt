@@ -1,0 +1,7 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Unvalid_number\bin\Debug\Unvalid_number.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Unvalid_number\bin\Debug\Unvalid_number.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Unvalid_number\bin\Debug\Unvalid_number.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Unvalid_number\obj\Debug\Unvalid_number.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Unvalid_number\obj\Debug\Unvalid_number.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Unvalid_number\obj\Debug\Unvalid_number.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Unvalid_number\obj\Debug\Unvalid_number.csprojResolveAssemblyReference.cache

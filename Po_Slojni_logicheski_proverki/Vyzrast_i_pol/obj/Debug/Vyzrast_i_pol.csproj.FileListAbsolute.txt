@@ -1,0 +1,7 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Vyzrast_i_pol\bin\Debug\Vyzrast_i_pol.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Vyzrast_i_pol\bin\Debug\Vyzrast_i_pol.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Vyzrast_i_pol\bin\Debug\Vyzrast_i_pol.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Vyzrast_i_pol\obj\Debug\Vyzrast_i_pol.csprojResolveAssemblyReference.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Vyzrast_i_pol\obj\Debug\Vyzrast_i_pol.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Vyzrast_i_pol\obj\Debug\Vyzrast_i_pol.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Vyzrast_i_pol\obj\Debug\Vyzrast_i_pol.pdb

@@ -1,0 +1,6 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\voleyball\bin\Debug\voleyball.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\voleyball\bin\Debug\voleyball.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\voleyball\bin\Debug\voleyball.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\voleyball\obj\Debug\voleyball.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\voleyball\obj\Debug\voleyball.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\voleyball\obj\Debug\voleyball.pdb
