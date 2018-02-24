@@ -1,0 +1,7 @@
+D:\Programirane\Exam_16_December_2017\Barcode_Generator\bin\Debug\Barcode_Generator.exe.config
+D:\Programirane\Exam_16_December_2017\Barcode_Generator\bin\Debug\Barcode_Generator.exe
+D:\Programirane\Exam_16_December_2017\Barcode_Generator\bin\Debug\Barcode_Generator.pdb
+D:\Programirane\Exam_16_December_2017\Barcode_Generator\obj\Debug\Barcode_Generator.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_16_December_2017\Barcode_Generator\obj\Debug\Barcode_Generator.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_16_December_2017\Barcode_Generator\obj\Debug\Barcode_Generator.exe
+D:\Programirane\Exam_16_December_2017\Barcode_Generator\obj\Debug\Barcode_Generator.pdb

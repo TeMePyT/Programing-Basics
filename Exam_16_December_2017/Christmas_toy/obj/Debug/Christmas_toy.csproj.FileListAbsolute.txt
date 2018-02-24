@@ -1,0 +1,7 @@
+D:\Programirane\Exam_16_December_2017\Christmas_toy\bin\Debug\Christmas_toy.exe.config
+D:\Programirane\Exam_16_December_2017\Christmas_toy\bin\Debug\Christmas_toy.exe
+D:\Programirane\Exam_16_December_2017\Christmas_toy\bin\Debug\Christmas_toy.pdb
+D:\Programirane\Exam_16_December_2017\Christmas_toy\obj\Debug\Christmas_toy.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_16_December_2017\Christmas_toy\obj\Debug\Christmas_toy.exe
+D:\Programirane\Exam_16_December_2017\Christmas_toy\obj\Debug\Christmas_toy.pdb
+D:\Programirane\Exam_16_December_2017\Christmas_toy\obj\Debug\Christmas_toy.csprojResolveAssemblyReference.cache
