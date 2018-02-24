@@ -1,0 +1,6 @@
+D:\Programirane\Exam_16_December_2017\Deer_of_Santa\bin\Debug\Deer_of_Santa.exe.config
+D:\Programirane\Exam_16_December_2017\Deer_of_Santa\bin\Debug\Deer_of_Santa.exe
+D:\Programirane\Exam_16_December_2017\Deer_of_Santa\bin\Debug\Deer_of_Santa.pdb
+D:\Programirane\Exam_16_December_2017\Deer_of_Santa\obj\Debug\Deer_of_Santa.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_16_December_2017\Deer_of_Santa\obj\Debug\Deer_of_Santa.exe
+D:\Programirane\Exam_16_December_2017\Deer_of_Santa\obj\Debug\Deer_of_Santa.pdb

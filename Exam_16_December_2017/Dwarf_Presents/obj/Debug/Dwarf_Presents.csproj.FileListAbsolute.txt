@@ -1,0 +1,7 @@
+D:\Programirane\Exam_16_December_2017\Dwarf_Presents\bin\Debug\Dwarf_Presents.exe.config
+D:\Programirane\Exam_16_December_2017\Dwarf_Presents\bin\Debug\Dwarf_Presents.exe
+D:\Programirane\Exam_16_December_2017\Dwarf_Presents\bin\Debug\Dwarf_Presents.pdb
+D:\Programirane\Exam_16_December_2017\Dwarf_Presents\obj\Debug\Dwarf_Presents.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_16_December_2017\Dwarf_Presents\obj\Debug\Dwarf_Presents.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_16_December_2017\Dwarf_Presents\obj\Debug\Dwarf_Presents.exe
+D:\Programirane\Exam_16_December_2017\Dwarf_Presents\obj\Debug\Dwarf_Presents.pdb

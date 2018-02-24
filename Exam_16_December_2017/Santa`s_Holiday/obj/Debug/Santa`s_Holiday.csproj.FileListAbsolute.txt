@@ -1,0 +1,7 @@
+D:\Programirane\Exam_16_December_2017\Santa`s_Holiday\bin\Debug\Santa`s_Holiday.exe.config
+D:\Programirane\Exam_16_December_2017\Santa`s_Holiday\bin\Debug\Santa`s_Holiday.exe
+D:\Programirane\Exam_16_December_2017\Santa`s_Holiday\bin\Debug\Santa`s_Holiday.pdb
+D:\Programirane\Exam_16_December_2017\Santa`s_Holiday\obj\Debug\Santa`s_Holiday.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_16_December_2017\Santa`s_Holiday\obj\Debug\Santa`s_Holiday.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_16_December_2017\Santa`s_Holiday\obj\Debug\Santa`s_Holiday.exe
+D:\Programirane\Exam_16_December_2017\Santa`s_Holiday\obj\Debug\Santa`s_Holiday.pdb
