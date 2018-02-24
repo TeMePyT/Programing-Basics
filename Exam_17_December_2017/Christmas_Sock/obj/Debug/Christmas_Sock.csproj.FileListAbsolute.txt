@@ -1,0 +1,7 @@
+D:\Programirane\Exam_17_December_2017\Christmas_Sock\bin\Debug\Christmas_Sock.exe.config
+D:\Programirane\Exam_17_December_2017\Christmas_Sock\bin\Debug\Christmas_Sock.exe
+D:\Programirane\Exam_17_December_2017\Christmas_Sock\bin\Debug\Christmas_Sock.pdb
+D:\Programirane\Exam_17_December_2017\Christmas_Sock\obj\Debug\Christmas_Sock.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_17_December_2017\Christmas_Sock\obj\Debug\Christmas_Sock.exe
+D:\Programirane\Exam_17_December_2017\Christmas_Sock\obj\Debug\Christmas_Sock.pdb
+D:\Programirane\Exam_17_December_2017\Christmas_Sock\obj\Debug\Christmas_Sock.csprojResolveAssemblyReference.cache

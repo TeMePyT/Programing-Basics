@@ -1,0 +1,7 @@
+D:\Programirane\Exam_17_December_2017\Multiply_Table\bin\Debug\Multiply_Table.exe.config
+D:\Programirane\Exam_17_December_2017\Multiply_Table\bin\Debug\Multiply_Table.exe
+D:\Programirane\Exam_17_December_2017\Multiply_Table\bin\Debug\Multiply_Table.pdb
+D:\Programirane\Exam_17_December_2017\Multiply_Table\obj\Debug\Multiply_Table.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_17_December_2017\Multiply_Table\obj\Debug\Multiply_Table.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_17_December_2017\Multiply_Table\obj\Debug\Multiply_Table.exe
+D:\Programirane\Exam_17_December_2017\Multiply_Table\obj\Debug\Multiply_Table.pdb

@@ -1,0 +1,7 @@
+D:\Programirane\Exam_17_December_2017\Workout\bin\Debug\Workout.exe.config
+D:\Programirane\Exam_17_December_2017\Workout\bin\Debug\Workout.exe
+D:\Programirane\Exam_17_December_2017\Workout\bin\Debug\Workout.pdb
+D:\Programirane\Exam_17_December_2017\Workout\obj\Debug\Workout.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_17_December_2017\Workout\obj\Debug\Workout.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_17_December_2017\Workout\obj\Debug\Workout.exe
+D:\Programirane\Exam_17_December_2017\Workout\obj\Debug\Workout.pdb
