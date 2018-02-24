@@ -1,0 +1,7 @@
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Change_List\bin\Debug\Change_List.exe.config
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Change_List\bin\Debug\Change_List.exe
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Change_List\bin\Debug\Change_List.pdb
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Change_List\obj\Debug\Change_List.csprojResolveAssemblyReference.cache
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Change_List\obj\Debug\Change_List.csproj.CoreCompileInputs.cache
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Change_List\obj\Debug\Change_List.exe
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Change_List\obj\Debug\Change_List.pdb

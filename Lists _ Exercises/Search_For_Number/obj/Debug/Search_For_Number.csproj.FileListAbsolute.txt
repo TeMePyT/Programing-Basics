@@ -1,0 +1,7 @@
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Search_For_Number\bin\Debug\Search_For_Number.exe.config
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Search_For_Number\bin\Debug\Search_For_Number.exe
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Search_For_Number\bin\Debug\Search_For_Number.pdb
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Search_For_Number\obj\Debug\Search_For_Number.csprojResolveAssemblyReference.cache
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Search_For_Number\obj\Debug\Search_For_Number.csproj.CoreCompileInputs.cache
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Search_For_Number\obj\Debug\Search_For_Number.exe
+D:\Programirane\Urok2_Prosti_Presmqtaniq\Search_For_Number\obj\Debug\Search_For_Number.pdb
