@@ -1,0 +1,6 @@
+D:\Programirane\For_Cycle\latin_letters\obj\Debug\latin_letters.csproj.CoreCompileInputs.cache
+D:\Programirane\For_Cycle\latin_letters\bin\Debug\latin_letters.exe.config
+D:\Programirane\For_Cycle\latin_letters\bin\Debug\latin_letters.exe
+D:\Programirane\For_Cycle\latin_letters\bin\Debug\latin_letters.pdb
+D:\Programirane\For_Cycle\latin_letters\obj\Debug\latin_letters.exe
+D:\Programirane\For_Cycle\latin_letters\obj\Debug\latin_letters.pdb

@@ -1,0 +1,7 @@
+D:\Programirane\For_Cycle\Left_and_Right_sum\bin\Debug\Left_and_Right_sum.exe.config
+D:\Programirane\For_Cycle\Left_and_Right_sum\bin\Debug\Left_and_Right_sum.exe
+D:\Programirane\For_Cycle\Left_and_Right_sum\bin\Debug\Left_and_Right_sum.pdb
+D:\Programirane\For_Cycle\Left_and_Right_sum\obj\Debug\Left_and_Right_sum.csprojResolveAssemblyReference.cache
+D:\Programirane\For_Cycle\Left_and_Right_sum\obj\Debug\Left_and_Right_sum.csproj.CoreCompileInputs.cache
+D:\Programirane\For_Cycle\Left_and_Right_sum\obj\Debug\Left_and_Right_sum.exe
+D:\Programirane\For_Cycle\Left_and_Right_sum\obj\Debug\Left_and_Right_sum.pdb

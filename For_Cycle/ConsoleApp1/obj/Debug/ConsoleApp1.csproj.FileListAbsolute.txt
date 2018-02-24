@@ -1,0 +1,7 @@
+D:\Programirane\For_Cycle\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Programirane\For_Cycle\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Programirane\For_Cycle\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Programirane\For_Cycle\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Programirane\For_Cycle\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Programirane\For_Cycle\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Programirane\For_Cycle\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
