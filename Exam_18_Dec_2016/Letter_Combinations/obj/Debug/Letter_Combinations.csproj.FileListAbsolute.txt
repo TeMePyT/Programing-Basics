@@ -1,0 +1,7 @@
+D:\Programirane\Exam_18_Dec_2016\Letter_Combinations\bin\Debug\Letter_Combinations.exe.config
+D:\Programirane\Exam_18_Dec_2016\Letter_Combinations\bin\Debug\Letter_Combinations.exe
+D:\Programirane\Exam_18_Dec_2016\Letter_Combinations\bin\Debug\Letter_Combinations.pdb
+D:\Programirane\Exam_18_Dec_2016\Letter_Combinations\obj\Debug\Letter_Combinations.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_18_Dec_2016\Letter_Combinations\obj\Debug\Letter_Combinations.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_18_Dec_2016\Letter_Combinations\obj\Debug\Letter_Combinations.exe
+D:\Programirane\Exam_18_Dec_2016\Letter_Combinations\obj\Debug\Letter_Combinations.pdb

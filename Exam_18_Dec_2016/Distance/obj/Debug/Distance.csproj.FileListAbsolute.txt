@@ -1,0 +1,7 @@
+D:\Programirane\Exam_18_Dec_2016\Distance\bin\Debug\Distance.exe.config
+D:\Programirane\Exam_18_Dec_2016\Distance\bin\Debug\Distance.exe
+D:\Programirane\Exam_18_Dec_2016\Distance\bin\Debug\Distance.pdb
+D:\Programirane\Exam_18_Dec_2016\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_18_Dec_2016\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_18_Dec_2016\Distance\obj\Debug\Distance.exe
+D:\Programirane\Exam_18_Dec_2016\Distance\obj\Debug\Distance.pdb

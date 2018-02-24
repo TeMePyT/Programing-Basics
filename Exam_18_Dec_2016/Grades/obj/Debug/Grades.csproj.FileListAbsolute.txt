@@ -1,0 +1,7 @@
+D:\Programirane\Exam_18_Dec_2016\Grades\bin\Debug\Grades.exe.config
+D:\Programirane\Exam_18_Dec_2016\Grades\bin\Debug\Grades.exe
+D:\Programirane\Exam_18_Dec_2016\Grades\bin\Debug\Grades.pdb
+D:\Programirane\Exam_18_Dec_2016\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_18_Dec_2016\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_18_Dec_2016\Grades\obj\Debug\Grades.exe
+D:\Programirane\Exam_18_Dec_2016\Grades\obj\Debug\Grades.pdb
