@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Romb_Ot_Zvezdi\bin\Debug\Romb_Ot_Zvezdi.exe.config
+D:\Programirane\Risuvane_S_Cikli\Romb_Ot_Zvezdi\bin\Debug\Romb_Ot_Zvezdi.exe
+D:\Programirane\Risuvane_S_Cikli\Romb_Ot_Zvezdi\bin\Debug\Romb_Ot_Zvezdi.pdb
+D:\Programirane\Risuvane_S_Cikli\Romb_Ot_Zvezdi\obj\Debug\Romb_Ot_Zvezdi.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Romb_Ot_Zvezdi\obj\Debug\Romb_Ot_Zvezdi.exe
+D:\Programirane\Risuvane_S_Cikli\Romb_Ot_Zvezdi\obj\Debug\Romb_Ot_Zvezdi.pdb
+D:\Programirane\Risuvane_S_Cikli\Romb_Ot_Zvezdi\obj\Debug\Romb_Ot_Zvezdi.csprojResolveAssemblyReference.cache

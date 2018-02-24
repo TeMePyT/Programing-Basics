@@ -1,0 +1,6 @@
+D:\Programirane\Risuvane_S_Cikli\Kvadratna_Ramka\obj\Debug\Kvadratna_Ramka.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Kvadratna_Ramka\bin\Debug\Kvadratna_Ramka.exe.config
+D:\Programirane\Risuvane_S_Cikli\Kvadratna_Ramka\bin\Debug\Kvadratna_Ramka.exe
+D:\Programirane\Risuvane_S_Cikli\Kvadratna_Ramka\bin\Debug\Kvadratna_Ramka.pdb
+D:\Programirane\Risuvane_S_Cikli\Kvadratna_Ramka\obj\Debug\Kvadratna_Ramka.exe
+D:\Programirane\Risuvane_S_Cikli\Kvadratna_Ramka\obj\Debug\Kvadratna_Ramka.pdb

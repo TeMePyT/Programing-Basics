@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Rate\bin\Debug\Rate.exe.config
+D:\Programirane\Risuvane_S_Cikli\Rate\bin\Debug\Rate.exe
+D:\Programirane\Risuvane_S_Cikli\Rate\bin\Debug\Rate.pdb
+D:\Programirane\Risuvane_S_Cikli\Rate\obj\Debug\Rate.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Rate\obj\Debug\Rate.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Rate\obj\Debug\Rate.exe
+D:\Programirane\Risuvane_S_Cikli\Rate\obj\Debug\Rate.pdb

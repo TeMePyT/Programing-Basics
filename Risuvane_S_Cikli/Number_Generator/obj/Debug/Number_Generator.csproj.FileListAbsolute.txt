@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Number_Generator\obj\Debug\Number_Generator.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Number_Generator\obj\Debug\Number_Generator.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Number_Generator\bin\Debug\Number_Generator.exe.config
+D:\Programirane\Risuvane_S_Cikli\Number_Generator\bin\Debug\Number_Generator.exe
+D:\Programirane\Risuvane_S_Cikli\Number_Generator\bin\Debug\Number_Generator.pdb
+D:\Programirane\Risuvane_S_Cikli\Number_Generator\obj\Debug\Number_Generator.exe
+D:\Programirane\Risuvane_S_Cikli\Number_Generator\obj\Debug\Number_Generator.pdb
