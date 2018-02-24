@@ -1,0 +1,6 @@
+D:\Programirane\Advanced_Loops\Number_Piramid\bin\Debug\Number_Piramid.exe.config
+D:\Programirane\Advanced_Loops\Number_Piramid\bin\Debug\Number_Piramid.exe
+D:\Programirane\Advanced_Loops\Number_Piramid\bin\Debug\Number_Piramid.pdb
+D:\Programirane\Advanced_Loops\Number_Piramid\obj\Debug\Number_Piramid.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Number_Piramid\obj\Debug\Number_Piramid.exe
+D:\Programirane\Advanced_Loops\Number_Piramid\obj\Debug\Number_Piramid.pdb

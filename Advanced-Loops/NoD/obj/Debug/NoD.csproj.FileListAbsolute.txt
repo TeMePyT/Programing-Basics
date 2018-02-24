@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\NoD\obj\Debug\NoD.csprojResolveAssemblyReference.cache
+D:\Programirane\Advanced_Loops\NoD\obj\Debug\NoD.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\NoD\bin\Debug\NoD.exe.config
+D:\Programirane\Advanced_Loops\NoD\bin\Debug\NoD.exe
+D:\Programirane\Advanced_Loops\NoD\bin\Debug\NoD.pdb
+D:\Programirane\Advanced_Loops\NoD\obj\Debug\NoD.exe
+D:\Programirane\Advanced_Loops\NoD\obj\Debug\NoD.pdb
