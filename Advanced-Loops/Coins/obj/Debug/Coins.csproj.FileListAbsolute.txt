@@ -1,0 +1,6 @@
+D:\Programirane\Advanced_Loops\Coins\bin\Debug\Coins.exe.config
+D:\Programirane\Advanced_Loops\Coins\bin\Debug\Coins.exe
+D:\Programirane\Advanced_Loops\Coins\bin\Debug\Coins.pdb
+D:\Programirane\Advanced_Loops\Coins\obj\Debug\Coins.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Coins\obj\Debug\Coins.exe
+D:\Programirane\Advanced_Loops\Coins\obj\Debug\Coins.pdb

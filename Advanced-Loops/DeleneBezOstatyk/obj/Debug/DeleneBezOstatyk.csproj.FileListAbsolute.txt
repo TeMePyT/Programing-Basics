@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\DeleneBezOstatyk\bin\Debug\DeleneBezOstatyk.exe.config
+D:\Programirane\Advanced_Loops\DeleneBezOstatyk\bin\Debug\DeleneBezOstatyk.exe
+D:\Programirane\Advanced_Loops\DeleneBezOstatyk\bin\Debug\DeleneBezOstatyk.pdb
+D:\Programirane\Advanced_Loops\DeleneBezOstatyk\obj\Debug\DeleneBezOstatyk.csprojResolveAssemblyReference.cache
+D:\Programirane\Advanced_Loops\DeleneBezOstatyk\obj\Debug\DeleneBezOstatyk.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\DeleneBezOstatyk\obj\Debug\DeleneBezOstatyk.exe
+D:\Programirane\Advanced_Loops\DeleneBezOstatyk\obj\Debug\DeleneBezOstatyk.pdb
