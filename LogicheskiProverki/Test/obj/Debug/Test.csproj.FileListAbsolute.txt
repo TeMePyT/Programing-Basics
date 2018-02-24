@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Test\bin\Debug\Test.exe.config
+D:\Programirane\LogicheskiProverki\Test\bin\Debug\Test.exe
+D:\Programirane\LogicheskiProverki\Test\bin\Debug\Test.pdb
+D:\Programirane\LogicheskiProverki\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Test\obj\Debug\Test.exe
+D:\Programirane\LogicheskiProverki\Test\obj\Debug\Test.pdb

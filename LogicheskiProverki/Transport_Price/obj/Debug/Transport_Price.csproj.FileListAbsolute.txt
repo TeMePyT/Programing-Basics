@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Transport_Price\bin\Debug\Transport_Price.exe.config
+D:\Programirane\LogicheskiProverki\Transport_Price\bin\Debug\Transport_Price.exe
+D:\Programirane\LogicheskiProverki\Transport_Price\bin\Debug\Transport_Price.pdb
+D:\Programirane\LogicheskiProverki\Transport_Price\obj\Debug\Transport_Price.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\Transport_Price\obj\Debug\Transport_Price.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Transport_Price\obj\Debug\Transport_Price.exe
+D:\Programirane\LogicheskiProverki\Transport_Price\obj\Debug\Transport_Price.pdb

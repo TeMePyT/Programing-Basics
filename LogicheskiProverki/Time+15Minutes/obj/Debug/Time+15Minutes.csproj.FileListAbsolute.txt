@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Time+15Minutes\obj\Debug\Time+15Minutes.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\Time+15Minutes\obj\Debug\Time+15Minutes.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Time+15Minutes\bin\Debug\Time+15Minutes.exe.config
+D:\Programirane\LogicheskiProverki\Time+15Minutes\bin\Debug\Time+15Minutes.exe
+D:\Programirane\LogicheskiProverki\Time+15Minutes\bin\Debug\Time+15Minutes.pdb
+D:\Programirane\LogicheskiProverki\Time+15Minutes\obj\Debug\Time+15Minutes.exe
+D:\Programirane\LogicheskiProverki\Time+15Minutes\obj\Debug\Time+15Minutes.pdb
