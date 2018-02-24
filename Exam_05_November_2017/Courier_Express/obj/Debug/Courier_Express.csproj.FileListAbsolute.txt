@@ -1,0 +1,7 @@
+D:\Programirane\Exam_05_November_2017\Courier_Express\obj\Debug\Courier_Express.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_05_November_2017\Courier_Express\obj\Debug\Courier_Express.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_05_November_2017\Courier_Express\bin\Debug\Courier_Express.exe.config
+D:\Programirane\Exam_05_November_2017\Courier_Express\bin\Debug\Courier_Express.exe
+D:\Programirane\Exam_05_November_2017\Courier_Express\bin\Debug\Courier_Express.pdb
+D:\Programirane\Exam_05_November_2017\Courier_Express\obj\Debug\Courier_Express.exe
+D:\Programirane\Exam_05_November_2017\Courier_Express\obj\Debug\Courier_Express.pdb

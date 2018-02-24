@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lucky_Numbers
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            StringBuilder luckyNumbers = new StringBuilder();
+
+            for (int i = 1; i <=9; i++)
+            {
+                for (int j = 1; j <= 9; j++)
+                {
+                    for (int k = 1; k <= 9; k++)
+                    {
+                        for (int l = 1; l <= 9; l++)
+                        {
+
+                            if(i+j==k+l && n%(i+j)==0)
+                            {
+                                luckyNumbers.Append(i);
+                                luckyNumbers.Append(j);
+                                luckyNumbers.Append(k);
+                                luckyNumbers.Append(l);
+                                luckyNumbers.Append(' ');
+                            }
+                        }
+                    }
+                }
+            }
+            Console.WriteLine(luckyNumbers);
+        }
+    }
+}

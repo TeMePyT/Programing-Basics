@@ -1,0 +1,6 @@
+D:\Programirane\Exam_05_November_2017\Java\obj\Debug\Java.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_05_November_2017\Java\bin\Debug\Java.exe.config
+D:\Programirane\Exam_05_November_2017\Java\bin\Debug\Java.exe
+D:\Programirane\Exam_05_November_2017\Java\bin\Debug\Java.pdb
+D:\Programirane\Exam_05_November_2017\Java\obj\Debug\Java.exe
+D:\Programirane\Exam_05_November_2017\Java\obj\Debug\Java.pdb

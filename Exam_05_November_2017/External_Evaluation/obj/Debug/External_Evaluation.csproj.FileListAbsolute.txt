@@ -1,0 +1,7 @@
+D:\Programirane\Exam_05_November_2017\External_Evaluation\bin\Debug\External_Evaluation.exe.config
+D:\Programirane\Exam_05_November_2017\External_Evaluation\bin\Debug\External_Evaluation.exe
+D:\Programirane\Exam_05_November_2017\External_Evaluation\bin\Debug\External_Evaluation.pdb
+D:\Programirane\Exam_05_November_2017\External_Evaluation\obj\Debug\External_Evaluation.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_05_November_2017\External_Evaluation\obj\Debug\External_Evaluation.exe
+D:\Programirane\Exam_05_November_2017\External_Evaluation\obj\Debug\External_Evaluation.pdb
+D:\Programirane\Exam_05_November_2017\External_Evaluation\obj\Debug\External_Evaluation.csprojResolveAssemblyReference.cache
