@@ -1,0 +1,6 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Day_of_Week\obj\Debug\Day_of_Week.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Day_of_Week\bin\Debug\Day_of_Week.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Day_of_Week\bin\Debug\Day_of_Week.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Day_of_Week\bin\Debug\Day_of_Week.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Day_of_Week\obj\Debug\Day_of_Week.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Day_of_Week\obj\Debug\Day_of_Week.pdb

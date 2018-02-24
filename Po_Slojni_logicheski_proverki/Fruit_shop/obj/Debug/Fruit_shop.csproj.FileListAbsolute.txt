@@ -1,0 +1,7 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_shop\bin\Debug\Fruit_shop.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_shop\bin\Debug\Fruit_shop.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_shop\bin\Debug\Fruit_shop.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_shop\obj\Debug\Fruit_shop.csprojResolveAssemblyReference.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_shop\obj\Debug\Fruit_shop.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_shop\obj\Debug\Fruit_shop.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_shop\obj\Debug\Fruit_shop.pdb

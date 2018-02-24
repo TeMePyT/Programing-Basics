@@ -1,0 +1,7 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Cinema\bin\Debug\Cinema.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Cinema\bin\Debug\Cinema.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Cinema\bin\Debug\Cinema.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Cinema\obj\Debug\Cinema.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Cinema\obj\Debug\Cinema.pdb

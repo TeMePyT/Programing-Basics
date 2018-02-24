@@ -1,0 +1,6 @@
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_or_Vegetable\bin\Debug\Fruit_or_Vegetable.exe.config
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_or_Vegetable\bin\Debug\Fruit_or_Vegetable.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_or_Vegetable\bin\Debug\Fruit_or_Vegetable.pdb
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_or_Vegetable\obj\Debug\Fruit_or_Vegetable.csproj.CoreCompileInputs.cache
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_or_Vegetable\obj\Debug\Fruit_or_Vegetable.exe
+D:\Programirane\Po_Slojni_logicheski_proverki\Fruit_or_Vegetable\obj\Debug\Fruit_or_Vegetable.pdb
