@@ -1,0 +1,7 @@
+D:\Programirane\Exam_24_Apr_2016\Operations_With_Numbers\bin\Debug\Operations_With_Numbers.exe.config
+D:\Programirane\Exam_24_Apr_2016\Operations_With_Numbers\bin\Debug\Operations_With_Numbers.exe
+D:\Programirane\Exam_24_Apr_2016\Operations_With_Numbers\bin\Debug\Operations_With_Numbers.pdb
+D:\Programirane\Exam_24_Apr_2016\Operations_With_Numbers\obj\Debug\Operations_With_Numbers.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_24_Apr_2016\Operations_With_Numbers\obj\Debug\Operations_With_Numbers.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_24_Apr_2016\Operations_With_Numbers\obj\Debug\Operations_With_Numbers.exe
+D:\Programirane\Exam_24_Apr_2016\Operations_With_Numbers\obj\Debug\Operations_With_Numbers.pdb

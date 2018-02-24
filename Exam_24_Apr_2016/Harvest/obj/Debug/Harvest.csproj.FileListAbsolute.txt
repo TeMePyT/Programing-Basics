@@ -1,0 +1,7 @@
+D:\Programirane\Exam_24_Apr_2016\Harvest\bin\Debug\Harvest.exe.config
+D:\Programirane\Exam_24_Apr_2016\Harvest\bin\Debug\Harvest.exe
+D:\Programirane\Exam_24_Apr_2016\Harvest\bin\Debug\Harvest.pdb
+D:\Programirane\Exam_24_Apr_2016\Harvest\obj\Debug\Harvest.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_24_Apr_2016\Harvest\obj\Debug\Harvest.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_24_Apr_2016\Harvest\obj\Debug\Harvest.exe
+D:\Programirane\Exam_24_Apr_2016\Harvest\obj\Debug\Harvest.pdb

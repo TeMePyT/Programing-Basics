@@ -1,0 +1,7 @@
+D:\Programirane\Exam_24_Apr_2016\Changing_Tiles\bin\Debug\Changing_Tiles.exe.config
+D:\Programirane\Exam_24_Apr_2016\Changing_Tiles\bin\Debug\Changing_Tiles.exe
+D:\Programirane\Exam_24_Apr_2016\Changing_Tiles\bin\Debug\Changing_Tiles.pdb
+D:\Programirane\Exam_24_Apr_2016\Changing_Tiles\obj\Debug\Changing_Tiles.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_24_Apr_2016\Changing_Tiles\obj\Debug\Changing_Tiles.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_24_Apr_2016\Changing_Tiles\obj\Debug\Changing_Tiles.exe
+D:\Programirane\Exam_24_Apr_2016\Changing_Tiles\obj\Debug\Changing_Tiles.pdb

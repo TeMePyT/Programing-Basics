@@ -1,0 +1,6 @@
+D:\Programirane\Exam_24_Apr_2016\Cat_Tom\bin\Debug\Cat_Tom.exe.config
+D:\Programirane\Exam_24_Apr_2016\Cat_Tom\bin\Debug\Cat_Tom.exe
+D:\Programirane\Exam_24_Apr_2016\Cat_Tom\bin\Debug\Cat_Tom.pdb
+D:\Programirane\Exam_24_Apr_2016\Cat_Tom\obj\Debug\Cat_Tom.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_24_Apr_2016\Cat_Tom\obj\Debug\Cat_Tom.exe
+D:\Programirane\Exam_24_Apr_2016\Cat_Tom\obj\Debug\Cat_Tom.pdb

@@ -1,0 +1,6 @@
+D:\Programirane\Exam_24_Apr_2016\Smart_Lili\bin\Debug\Smart_Lili.exe.config
+D:\Programirane\Exam_24_Apr_2016\Smart_Lili\bin\Debug\Smart_Lili.exe
+D:\Programirane\Exam_24_Apr_2016\Smart_Lili\bin\Debug\Smart_Lili.pdb
+D:\Programirane\Exam_24_Apr_2016\Smart_Lili\obj\Debug\Smart_Lili.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_24_Apr_2016\Smart_Lili\obj\Debug\Smart_Lili.exe
+D:\Programirane\Exam_24_Apr_2016\Smart_Lili\obj\Debug\Smart_Lili.pdb
