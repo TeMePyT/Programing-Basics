@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\School_Camp\bin\Debug\School_Camp.exe.config
+D:\Programirane\Risuvane_S_Cikli\School_Camp\bin\Debug\School_Camp.exe
+D:\Programirane\Risuvane_S_Cikli\School_Camp\bin\Debug\School_Camp.pdb
+D:\Programirane\Risuvane_S_Cikli\School_Camp\obj\Debug\School_Camp.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\School_Camp\obj\Debug\School_Camp.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\School_Camp\obj\Debug\School_Camp.exe
+D:\Programirane\Risuvane_S_Cikli\School_Camp\obj\Debug\School_Camp.pdb

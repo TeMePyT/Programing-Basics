@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Sandbox\bin\Debug\Sandbox.exe.config
+D:\Programirane\Risuvane_S_Cikli\Sandbox\bin\Debug\Sandbox.exe
+D:\Programirane\Risuvane_S_Cikli\Sandbox\bin\Debug\Sandbox.pdb
+D:\Programirane\Risuvane_S_Cikli\Sandbox\obj\Debug\Sandbox.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Sandbox\obj\Debug\Sandbox.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Sandbox\obj\Debug\Sandbox.exe
+D:\Programirane\Risuvane_S_Cikli\Sandbox\obj\Debug\Sandbox.pdb

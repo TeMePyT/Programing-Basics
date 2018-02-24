@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Toy_Shop\bin\Debug\Toy_Shop.exe.config
+D:\Programirane\Risuvane_S_Cikli\Toy_Shop\bin\Debug\Toy_Shop.exe
+D:\Programirane\Risuvane_S_Cikli\Toy_Shop\bin\Debug\Toy_Shop.pdb
+D:\Programirane\Risuvane_S_Cikli\Toy_Shop\obj\Debug\Toy_Shop.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Toy_Shop\obj\Debug\Toy_Shop.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Toy_Shop\obj\Debug\Toy_Shop.exe
+D:\Programirane\Risuvane_S_Cikli\Toy_Shop\obj\Debug\Toy_Shop.pdb

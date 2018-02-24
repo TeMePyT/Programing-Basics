@@ -1,0 +1,6 @@
+D:\Programirane\Risuvane_S_Cikli\Square_Of_Stars\obj\Debug\Square_Of_Stars.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Square_Of_Stars\bin\Debug\Square_Of_Stars.exe.config
+D:\Programirane\Risuvane_S_Cikli\Square_Of_Stars\bin\Debug\Square_Of_Stars.exe
+D:\Programirane\Risuvane_S_Cikli\Square_Of_Stars\bin\Debug\Square_Of_Stars.pdb
+D:\Programirane\Risuvane_S_Cikli\Square_Of_Stars\obj\Debug\Square_Of_Stars.exe
+D:\Programirane\Risuvane_S_Cikli\Square_Of_Stars\obj\Debug\Square_Of_Stars.pdb
