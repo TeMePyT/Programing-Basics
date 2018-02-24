@@ -1,0 +1,7 @@
+D:\Programirane\Zada4i_Za_Shampioni\X-Xpression\bin\Debug\X-Xpression.exe.config
+D:\Programirane\Zada4i_Za_Shampioni\X-Xpression\bin\Debug\X-Xpression.exe
+D:\Programirane\Zada4i_Za_Shampioni\X-Xpression\bin\Debug\X-Xpression.pdb
+D:\Programirane\Zada4i_Za_Shampioni\X-Xpression\obj\Debug\X-Xpression.csprojResolveAssemblyReference.cache
+D:\Programirane\Zada4i_Za_Shampioni\X-Xpression\obj\Debug\X-Xpression.csproj.CoreCompileInputs.cache
+D:\Programirane\Zada4i_Za_Shampioni\X-Xpression\obj\Debug\X-Xpression.exe
+D:\Programirane\Zada4i_Za_Shampioni\X-Xpression\obj\Debug\X-Xpression.pdb

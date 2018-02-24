@@ -1,0 +1,7 @@
+D:\Programirane\Zada4i_Za_Shampioni\Drobno_Delene\bin\Release\Drobno_Delene.exe.config
+D:\Programirane\Zada4i_Za_Shampioni\Drobno_Delene\bin\Release\Drobno_Delene.exe
+D:\Programirane\Zada4i_Za_Shampioni\Drobno_Delene\bin\Release\Drobno_Delene.pdb
+D:\Programirane\Zada4i_Za_Shampioni\Drobno_Delene\obj\Release\Drobno_Delene.csprojResolveAssemblyReference.cache
+D:\Programirane\Zada4i_Za_Shampioni\Drobno_Delene\obj\Release\Drobno_Delene.csproj.CoreCompileInputs.cache
+D:\Programirane\Zada4i_Za_Shampioni\Drobno_Delene\obj\Release\Drobno_Delene.exe
+D:\Programirane\Zada4i_Za_Shampioni\Drobno_Delene\obj\Release\Drobno_Delene.pdb

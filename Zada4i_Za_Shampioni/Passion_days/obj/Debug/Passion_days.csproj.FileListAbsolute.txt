@@ -1,0 +1,7 @@
+D:\Programirane\Zada4i_Za_Shampioni\Passion_days\bin\Debug\Passion_days.exe.config
+D:\Programirane\Zada4i_Za_Shampioni\Passion_days\bin\Debug\Passion_days.exe
+D:\Programirane\Zada4i_Za_Shampioni\Passion_days\bin\Debug\Passion_days.pdb
+D:\Programirane\Zada4i_Za_Shampioni\Passion_days\obj\Debug\Passion_days.csprojResolveAssemblyReference.cache
+D:\Programirane\Zada4i_Za_Shampioni\Passion_days\obj\Debug\Passion_days.csproj.CoreCompileInputs.cache
+D:\Programirane\Zada4i_Za_Shampioni\Passion_days\obj\Debug\Passion_days.exe
+D:\Programirane\Zada4i_Za_Shampioni\Passion_days\obj\Debug\Passion_days.pdb

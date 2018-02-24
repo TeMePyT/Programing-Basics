@@ -1,0 +1,7 @@
+D:\Programirane\Zada4i_Za_Shampioni\5_Magic_Letters\bin\Debug\5_Magic_Letters.exe.config
+D:\Programirane\Zada4i_Za_Shampioni\5_Magic_Letters\bin\Debug\5_Magic_Letters.exe
+D:\Programirane\Zada4i_Za_Shampioni\5_Magic_Letters\bin\Debug\5_Magic_Letters.pdb
+D:\Programirane\Zada4i_Za_Shampioni\5_Magic_Letters\obj\Debug\5_Magic_Letters.csprojResolveAssemblyReference.cache
+D:\Programirane\Zada4i_Za_Shampioni\5_Magic_Letters\obj\Debug\5_Magic_Letters.csproj.CoreCompileInputs.cache
+D:\Programirane\Zada4i_Za_Shampioni\5_Magic_Letters\obj\Debug\5_Magic_Letters.exe
+D:\Programirane\Zada4i_Za_Shampioni\5_Magic_Letters\obj\Debug\5_Magic_Letters.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic_Dates", "Magic_Dates\Magic_Dates.csproj", "{CCB2610F-FB2A-4AB9-A65C-FF59EED90177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Magic_Letters", "5_Magic_Letters\5_Magic_Letters.csproj", "{A86152EB-C445-4982-B403-970C71FFC13F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossing_sequences", "Crossing_sequences\Crossing_sequences.csproj", "{B71C71EF-4BE9-4D1F-945F-F2E05555C9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passion_days", "Passion_days\Passion_days.csproj", "{3EEC10F5-C354-4943-89ED-754967AED15B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "X-Xpression", "X-Xpression\X-Xpression.csproj", "{7A130A07-FB41-467D-B353-0464D53A98A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drobno_Delene", "Drobno_Delene\Drobno_Delene.csproj", "{94DBD6D8-B19A-4C67-BA09-CED11BB1D59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB2610F-FB2A-4AB9-A65C-FF59EED90177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB2610F-FB2A-4AB9-A65C-FF59EED90177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB2610F-FB2A-4AB9-A65C-FF59EED90177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB2610F-FB2A-4AB9-A65C-FF59EED90177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86152EB-C445-4982-B403-970C71FFC13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86152EB-C445-4982-B403-970C71FFC13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86152EB-C445-4982-B403-970C71FFC13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86152EB-C445-4982-B403-970C71FFC13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B71C71EF-4BE9-4D1F-945F-F2E05555C9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B71C71EF-4BE9-4D1F-945F-F2E05555C9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B71C71EF-4BE9-4D1F-945F-F2E05555C9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B71C71EF-4BE9-4D1F-945F-F2E05555C9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EEC10F5-C354-4943-89ED-754967AED15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEC10F5-C354-4943-89ED-754967AED15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEC10F5-C354-4943-89ED-754967AED15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEC10F5-C354-4943-89ED-754967AED15B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A130A07-FB41-467D-B353-0464D53A98A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A130A07-FB41-467D-B353-0464D53A98A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A130A07-FB41-467D-B353-0464D53A98A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A130A07-FB41-467D-B353-0464D53A98A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94DBD6D8-B19A-4C67-BA09-CED11BB1D59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DBD6D8-B19A-4C67-BA09-CED11BB1D59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DBD6D8-B19A-4C67-BA09-CED11BB1D59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DBD6D8-B19A-4C67-BA09-CED11BB1D59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6CF78B4-2F75-4AE6-BBD9-BA36D2DE50A1}
+	EndGlobalSection
+EndGlobal

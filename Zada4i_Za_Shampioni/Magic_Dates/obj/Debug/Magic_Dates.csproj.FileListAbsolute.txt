@@ -1,0 +1,7 @@
+D:\Programirane\Zada4i_Za_Shampioni\Magic_Dates\bin\Debug\Magic_Dates.exe.config
+D:\Programirane\Zada4i_Za_Shampioni\Magic_Dates\bin\Debug\Magic_Dates.exe
+D:\Programirane\Zada4i_Za_Shampioni\Magic_Dates\bin\Debug\Magic_Dates.pdb
+D:\Programirane\Zada4i_Za_Shampioni\Magic_Dates\obj\Debug\Magic_Dates.csprojResolveAssemblyReference.cache
+D:\Programirane\Zada4i_Za_Shampioni\Magic_Dates\obj\Debug\Magic_Dates.csproj.CoreCompileInputs.cache
+D:\Programirane\Zada4i_Za_Shampioni\Magic_Dates\obj\Debug\Magic_Dates.exe
+D:\Programirane\Zada4i_Za_Shampioni\Magic_Dates\obj\Debug\Magic_Dates.pdb
