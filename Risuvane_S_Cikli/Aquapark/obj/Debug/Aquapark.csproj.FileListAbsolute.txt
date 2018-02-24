@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Aquapark\bin\Debug\Aquapark.exe.config
+D:\Programirane\Risuvane_S_Cikli\Aquapark\bin\Debug\Aquapark.exe
+D:\Programirane\Risuvane_S_Cikli\Aquapark\bin\Debug\Aquapark.pdb
+D:\Programirane\Risuvane_S_Cikli\Aquapark\obj\Debug\Aquapark.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Aquapark\obj\Debug\Aquapark.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Aquapark\obj\Debug\Aquapark.exe
+D:\Programirane\Risuvane_S_Cikli\Aquapark\obj\Debug\Aquapark.pdb

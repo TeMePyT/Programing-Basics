@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Bakery\bin\Debug\Bakery.exe.config
+D:\Programirane\Risuvane_S_Cikli\Bakery\bin\Debug\Bakery.exe
+D:\Programirane\Risuvane_S_Cikli\Bakery\bin\Debug\Bakery.pdb
+D:\Programirane\Risuvane_S_Cikli\Bakery\obj\Debug\Bakery.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Bakery\obj\Debug\Bakery.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Bakery\obj\Debug\Bakery.exe
+D:\Programirane\Risuvane_S_Cikli\Bakery\obj\Debug\Bakery.pdb

@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Alcohol_Market\bin\Debug\Alcohol_Market.exe.config
+D:\Programirane\Risuvane_S_Cikli\Alcohol_Market\bin\Debug\Alcohol_Market.exe
+D:\Programirane\Risuvane_S_Cikli\Alcohol_Market\bin\Debug\Alcohol_Market.pdb
+D:\Programirane\Risuvane_S_Cikli\Alcohol_Market\obj\Debug\Alcohol_Market.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Alcohol_Market\obj\Debug\Alcohol_Market.exe
+D:\Programirane\Risuvane_S_Cikli\Alcohol_Market\obj\Debug\Alcohol_Market.pdb
+D:\Programirane\Risuvane_S_Cikli\Alcohol_Market\obj\Debug\Alcohol_Market.csprojResolveAssemblyReference.cache

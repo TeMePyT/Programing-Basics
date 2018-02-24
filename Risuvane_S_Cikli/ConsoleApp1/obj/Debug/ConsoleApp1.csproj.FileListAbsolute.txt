@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Programirane\Risuvane_S_Cikli\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Programirane\Risuvane_S_Cikli\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Programirane\Risuvane_S_Cikli\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Programirane\Risuvane_S_Cikli\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Christmas_Tree\bin\Debug\Christmas_Tree.exe.config
+D:\Programirane\Risuvane_S_Cikli\Christmas_Tree\bin\Debug\Christmas_Tree.exe
+D:\Programirane\Risuvane_S_Cikli\Christmas_Tree\bin\Debug\Christmas_Tree.pdb
+D:\Programirane\Risuvane_S_Cikli\Christmas_Tree\obj\Debug\Christmas_Tree.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Christmas_Tree\obj\Debug\Christmas_Tree.exe
+D:\Programirane\Risuvane_S_Cikli\Christmas_Tree\obj\Debug\Christmas_Tree.pdb
+D:\Programirane\Risuvane_S_Cikli\Christmas_Tree\obj\Debug\Christmas_Tree.csprojResolveAssemblyReference.cache

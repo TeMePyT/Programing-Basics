@@ -1,0 +1,6 @@
+D:\Programirane\Risuvane_S_Cikli\Airplane\bin\Debug\Airplane.exe.config
+D:\Programirane\Risuvane_S_Cikli\Airplane\bin\Debug\Airplane.exe
+D:\Programirane\Risuvane_S_Cikli\Airplane\bin\Debug\Airplane.pdb
+D:\Programirane\Risuvane_S_Cikli\Airplane\obj\Debug\Airplane.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Airplane\obj\Debug\Airplane.exe
+D:\Programirane\Risuvane_S_Cikli\Airplane\obj\Debug\Airplane.pdb
