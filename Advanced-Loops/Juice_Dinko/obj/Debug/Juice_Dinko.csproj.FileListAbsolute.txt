@@ -1,0 +1,6 @@
+D:\Programirane\Advanced_Loops\Juice_Dinko\bin\Debug\Juice_Dinko.exe.config
+D:\Programirane\Advanced_Loops\Juice_Dinko\bin\Debug\Juice_Dinko.exe
+D:\Programirane\Advanced_Loops\Juice_Dinko\bin\Debug\Juice_Dinko.pdb
+D:\Programirane\Advanced_Loops\Juice_Dinko\obj\Debug\Juice_Dinko.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Juice_Dinko\obj\Debug\Juice_Dinko.exe
+D:\Programirane\Advanced_Loops\Juice_Dinko\obj\Debug\Juice_Dinko.pdb

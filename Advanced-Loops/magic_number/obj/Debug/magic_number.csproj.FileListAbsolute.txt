@@ -1,0 +1,6 @@
+D:\Programirane\Advanced_Loops\magic_number\bin\Debug\magic_number.exe.config
+D:\Programirane\Advanced_Loops\magic_number\bin\Debug\magic_number.exe
+D:\Programirane\Advanced_Loops\magic_number\bin\Debug\magic_number.pdb
+D:\Programirane\Advanced_Loops\magic_number\obj\Debug\magic_number.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\magic_number\obj\Debug\magic_number.exe
+D:\Programirane\Advanced_Loops\magic_number\obj\Debug\magic_number.pdb

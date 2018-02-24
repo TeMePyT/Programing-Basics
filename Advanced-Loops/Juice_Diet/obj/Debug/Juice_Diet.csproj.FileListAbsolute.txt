@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\Juice_Diet\bin\Debug\Juice_Diet.exe.config
+D:\Programirane\Advanced_Loops\Juice_Diet\bin\Debug\Juice_Diet.exe
+D:\Programirane\Advanced_Loops\Juice_Diet\bin\Debug\Juice_Diet.pdb
+D:\Programirane\Advanced_Loops\Juice_Diet\obj\Debug\Juice_Diet.csprojResolveAssemblyReference.cache
+D:\Programirane\Advanced_Loops\Juice_Diet\obj\Debug\Juice_Diet.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Juice_Diet\obj\Debug\Juice_Diet.exe
+D:\Programirane\Advanced_Loops\Juice_Diet\obj\Debug\Juice_Diet.pdb
