@@ -1,0 +1,6 @@
+D:\Programirane\For_Cycle\Nums_ending_in_7\bin\Debug\Nums_ending_in_7.exe.config
+D:\Programirane\For_Cycle\Nums_ending_in_7\bin\Debug\Nums_ending_in_7.exe
+D:\Programirane\For_Cycle\Nums_ending_in_7\bin\Debug\Nums_ending_in_7.pdb
+D:\Programirane\For_Cycle\Nums_ending_in_7\obj\Debug\Nums_ending_in_7.csproj.CoreCompileInputs.cache
+D:\Programirane\For_Cycle\Nums_ending_in_7\obj\Debug\Nums_ending_in_7.exe
+D:\Programirane\For_Cycle\Nums_ending_in_7\obj\Debug\Nums_ending_in_7.pdb

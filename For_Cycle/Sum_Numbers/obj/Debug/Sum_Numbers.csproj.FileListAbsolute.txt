@@ -1,0 +1,6 @@
+D:\Programirane\For_Cycle\Sum_Numbers\bin\Debug\Sum_Numbers.exe.config
+D:\Programirane\For_Cycle\Sum_Numbers\bin\Debug\Sum_Numbers.exe
+D:\Programirane\For_Cycle\Sum_Numbers\bin\Debug\Sum_Numbers.pdb
+D:\Programirane\For_Cycle\Sum_Numbers\obj\Debug\Sum_Numbers.csproj.CoreCompileInputs.cache
+D:\Programirane\For_Cycle\Sum_Numbers\obj\Debug\Sum_Numbers.exe
+D:\Programirane\For_Cycle\Sum_Numbers\obj\Debug\Sum_Numbers.pdb

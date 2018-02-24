@@ -1,0 +1,7 @@
+D:\Programirane\For_Cycle\Vowels_Sum\bin\Debug\Vowels_Sum.exe.config
+D:\Programirane\For_Cycle\Vowels_Sum\bin\Debug\Vowels_Sum.exe
+D:\Programirane\For_Cycle\Vowels_Sum\bin\Debug\Vowels_Sum.pdb
+D:\Programirane\For_Cycle\Vowels_Sum\obj\Debug\Vowels_Sum.csprojResolveAssemblyReference.cache
+D:\Programirane\For_Cycle\Vowels_Sum\obj\Debug\Vowels_Sum.csproj.CoreCompileInputs.cache
+D:\Programirane\For_Cycle\Vowels_Sum\obj\Debug\Vowels_Sum.exe
+D:\Programirane\For_Cycle\Vowels_Sum\obj\Debug\Vowels_Sum.pdb
