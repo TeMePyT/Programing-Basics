@@ -1,0 +1,7 @@
+D:\Programirane\Exam_05_November_2017\Wire_Net\bin\Debug\Wire_Net.exe.config
+D:\Programirane\Exam_05_November_2017\Wire_Net\bin\Debug\Wire_Net.exe
+D:\Programirane\Exam_05_November_2017\Wire_Net\bin\Debug\Wire_Net.pdb
+D:\Programirane\Exam_05_November_2017\Wire_Net\obj\Debug\Wire_Net.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_05_November_2017\Wire_Net\obj\Debug\Wire_Net.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_05_November_2017\Wire_Net\obj\Debug\Wire_Net.exe
+D:\Programirane\Exam_05_November_2017\Wire_Net\obj\Debug\Wire_Net.pdb

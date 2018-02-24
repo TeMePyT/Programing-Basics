@@ -1,0 +1,6 @@
+D:\Programirane\Exam_05_November_2017\Lutenitsa\bin\Debug\Lutenitsa.exe.config
+D:\Programirane\Exam_05_November_2017\Lutenitsa\bin\Debug\Lutenitsa.exe
+D:\Programirane\Exam_05_November_2017\Lutenitsa\bin\Debug\Lutenitsa.pdb
+D:\Programirane\Exam_05_November_2017\Lutenitsa\obj\Debug\Lutenitsa.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_05_November_2017\Lutenitsa\obj\Debug\Lutenitsa.exe
+D:\Programirane\Exam_05_November_2017\Lutenitsa\obj\Debug\Lutenitsa.pdb
