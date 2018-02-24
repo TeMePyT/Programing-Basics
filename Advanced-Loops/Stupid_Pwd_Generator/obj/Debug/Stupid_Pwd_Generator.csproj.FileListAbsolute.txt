@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\Stupid_Pwd_Generator\bin\Debug\Stupid_Pwd_Generator.exe.config
+D:\Programirane\Advanced_Loops\Stupid_Pwd_Generator\bin\Debug\Stupid_Pwd_Generator.exe
+D:\Programirane\Advanced_Loops\Stupid_Pwd_Generator\bin\Debug\Stupid_Pwd_Generator.pdb
+D:\Programirane\Advanced_Loops\Stupid_Pwd_Generator\obj\Debug\Stupid_Pwd_Generator.csprojResolveAssemblyReference.cache
+D:\Programirane\Advanced_Loops\Stupid_Pwd_Generator\obj\Debug\Stupid_Pwd_Generator.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Stupid_Pwd_Generator\obj\Debug\Stupid_Pwd_Generator.exe
+D:\Programirane\Advanced_Loops\Stupid_Pwd_Generator\obj\Debug\Stupid_Pwd_Generator.pdb

@@ -1,0 +1,6 @@
+D:\Programirane\Advanced_Loops\Sum_Digits\bin\Debug\Sum_Digits.exe.config
+D:\Programirane\Advanced_Loops\Sum_Digits\bin\Debug\Sum_Digits.exe
+D:\Programirane\Advanced_Loops\Sum_Digits\bin\Debug\Sum_Digits.pdb
+D:\Programirane\Advanced_Loops\Sum_Digits\obj\Debug\Sum_Digits.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Sum_Digits\obj\Debug\Sum_Digits.exe
+D:\Programirane\Advanced_Loops\Sum_Digits\obj\Debug\Sum_Digits.pdb

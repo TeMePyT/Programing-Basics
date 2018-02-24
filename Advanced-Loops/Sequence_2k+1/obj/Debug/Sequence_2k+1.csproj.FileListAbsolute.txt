@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\Sequence_2k+1\bin\Debug\Sequence_2k+1.exe.config
+D:\Programirane\Advanced_Loops\Sequence_2k+1\bin\Debug\Sequence_2k+1.exe
+D:\Programirane\Advanced_Loops\Sequence_2k+1\bin\Debug\Sequence_2k+1.pdb
+D:\Programirane\Advanced_Loops\Sequence_2k+1\obj\Debug\Sequence_2k+1.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Sequence_2k+1\obj\Debug\Sequence_2k+1.exe
+D:\Programirane\Advanced_Loops\Sequence_2k+1\obj\Debug\Sequence_2k+1.pdb
+D:\Programirane\Advanced_Loops\Sequence_2k+1\obj\Debug\Sequence_2k+1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Programirane\Advanced_Loops\Powers_Of_2\bin\Debug\Powers_Of_2.exe.config
+D:\Programirane\Advanced_Loops\Powers_Of_2\bin\Debug\Powers_Of_2.exe
+D:\Programirane\Advanced_Loops\Powers_Of_2\bin\Debug\Powers_Of_2.pdb
+D:\Programirane\Advanced_Loops\Powers_Of_2\obj\Debug\Powers_Of_2.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Powers_Of_2\obj\Debug\Powers_Of_2.exe
+D:\Programirane\Advanced_Loops\Powers_Of_2\obj\Debug\Powers_Of_2.pdb
