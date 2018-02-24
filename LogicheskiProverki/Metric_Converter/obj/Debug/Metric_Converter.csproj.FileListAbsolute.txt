@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Metric_Converter\bin\Debug\Metric_Converter.exe.config
+D:\Programirane\LogicheskiProverki\Metric_Converter\bin\Debug\Metric_Converter.exe
+D:\Programirane\LogicheskiProverki\Metric_Converter\bin\Debug\Metric_Converter.pdb
+D:\Programirane\LogicheskiProverki\Metric_Converter\obj\Debug\Metric_Converter.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\Metric_Converter\obj\Debug\Metric_Converter.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Metric_Converter\obj\Debug\Metric_Converter.exe
+D:\Programirane\LogicheskiProverki\Metric_Converter\obj\Debug\Metric_Converter.pdb

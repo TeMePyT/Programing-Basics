@@ -1,0 +1,6 @@
+D:\Programirane\LogicheskiProverki\Excellent_or_Not\bin\Debug\Excellent_or_Not.exe.config
+D:\Programirane\LogicheskiProverki\Excellent_or_Not\bin\Debug\Excellent_or_Not.exe
+D:\Programirane\LogicheskiProverki\Excellent_or_Not\bin\Debug\Excellent_or_Not.pdb
+D:\Programirane\LogicheskiProverki\Excellent_or_Not\obj\Debug\Excellent_or_Not.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Excellent_or_Not\obj\Debug\Excellent_or_Not.exe
+D:\Programirane\LogicheskiProverki\Excellent_or_Not\obj\Debug\Excellent_or_Not.pdb

@@ -1,0 +1,6 @@
+D:\Programirane\LogicheskiProverki\Even_or_Odd\bin\Debug\Even_or_Odd.exe.config
+D:\Programirane\LogicheskiProverki\Even_or_Odd\bin\Debug\Even_or_Odd.exe
+D:\Programirane\LogicheskiProverki\Even_or_Odd\bin\Debug\Even_or_Odd.pdb
+D:\Programirane\LogicheskiProverki\Even_or_Odd\obj\Debug\Even_or_Odd.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Even_or_Odd\obj\Debug\Even_or_Odd.exe
+D:\Programirane\LogicheskiProverki\Even_or_Odd\obj\Debug\Even_or_Odd.pdb

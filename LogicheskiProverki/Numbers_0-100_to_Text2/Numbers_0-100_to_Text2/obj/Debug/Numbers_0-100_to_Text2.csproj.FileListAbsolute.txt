@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Numbers_0-100_to_Text2\Numbers_0-100_to_Text2\bin\Debug\Numbers_0-100_to_Text2.exe.config
+D:\Programirane\LogicheskiProverki\Numbers_0-100_to_Text2\Numbers_0-100_to_Text2\bin\Debug\Numbers_0-100_to_Text2.exe
+D:\Programirane\LogicheskiProverki\Numbers_0-100_to_Text2\Numbers_0-100_to_Text2\bin\Debug\Numbers_0-100_to_Text2.pdb
+D:\Programirane\LogicheskiProverki\Numbers_0-100_to_Text2\Numbers_0-100_to_Text2\obj\Debug\Numbers_0-100_to_Text2.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\Numbers_0-100_to_Text2\Numbers_0-100_to_Text2\obj\Debug\Numbers_0-100_to_Text2.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Numbers_0-100_to_Text2\Numbers_0-100_to_Text2\obj\Debug\Numbers_0-100_to_Text2.exe
+D:\Programirane\LogicheskiProverki\Numbers_0-100_to_Text2\Numbers_0-100_to_Text2\obj\Debug\Numbers_0-100_to_Text2.pdb
