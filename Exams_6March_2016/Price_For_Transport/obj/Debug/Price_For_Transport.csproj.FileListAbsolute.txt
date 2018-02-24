@@ -1,0 +1,6 @@
+D:\Programirane\Exams_6March_2016\Price_For_Transport\obj\Debug\Price_For_Transport.csproj.CoreCompileInputs.cache
+D:\Programirane\Exams_6March_2016\Price_For_Transport\bin\Debug\Price_For_Transport.exe.config
+D:\Programirane\Exams_6March_2016\Price_For_Transport\bin\Debug\Price_For_Transport.exe
+D:\Programirane\Exams_6March_2016\Price_For_Transport\bin\Debug\Price_For_Transport.pdb
+D:\Programirane\Exams_6March_2016\Price_For_Transport\obj\Debug\Price_For_Transport.exe
+D:\Programirane\Exams_6March_2016\Price_For_Transport\obj\Debug\Price_For_Transport.pdb

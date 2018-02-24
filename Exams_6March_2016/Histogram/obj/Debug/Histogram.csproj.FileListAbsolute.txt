@@ -1,0 +1,7 @@
+D:\Programirane\Exams_6March_2016\Histogram\bin\Debug\Histogram.exe.config
+D:\Programirane\Exams_6March_2016\Histogram\bin\Debug\Histogram.exe
+D:\Programirane\Exams_6March_2016\Histogram\bin\Debug\Histogram.pdb
+D:\Programirane\Exams_6March_2016\Histogram\obj\Debug\Histogram.csprojResolveAssemblyReference.cache
+D:\Programirane\Exams_6March_2016\Histogram\obj\Debug\Histogram.csproj.CoreCompileInputs.cache
+D:\Programirane\Exams_6March_2016\Histogram\obj\Debug\Histogram.exe
+D:\Programirane\Exams_6March_2016\Histogram\obj\Debug\Histogram.pdb

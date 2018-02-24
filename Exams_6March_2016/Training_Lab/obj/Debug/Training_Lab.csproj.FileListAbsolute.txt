@@ -1,0 +1,7 @@
+D:\Programirane\Exams_6March_2016\Training_Lab\bin\Debug\Training_Lab.exe.config
+D:\Programirane\Exams_6March_2016\Training_Lab\bin\Debug\Training_Lab.exe
+D:\Programirane\Exams_6March_2016\Training_Lab\bin\Debug\Training_Lab.pdb
+D:\Programirane\Exams_6March_2016\Training_Lab\obj\Debug\Training_Lab.csprojResolveAssemblyReference.cache
+D:\Programirane\Exams_6March_2016\Training_Lab\obj\Debug\Training_Lab.csproj.CoreCompileInputs.cache
+D:\Programirane\Exams_6March_2016\Training_Lab\obj\Debug\Training_Lab.exe
+D:\Programirane\Exams_6March_2016\Training_Lab\obj\Debug\Training_Lab.pdb
