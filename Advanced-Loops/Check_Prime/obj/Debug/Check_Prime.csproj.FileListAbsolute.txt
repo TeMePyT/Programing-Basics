@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\Check_Prime\bin\Debug\Check_Prime.exe.config
+D:\Programirane\Advanced_Loops\Check_Prime\bin\Debug\Check_Prime.exe
+D:\Programirane\Advanced_Loops\Check_Prime\bin\Debug\Check_Prime.pdb
+D:\Programirane\Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.csprojResolveAssemblyReference.cache
+D:\Programirane\Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.exe
+D:\Programirane\Advanced_Loops\Check_Prime\obj\Debug\Check_Prime.pdb
