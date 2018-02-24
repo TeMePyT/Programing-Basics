@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\1toN_With_Step_3\bin\Debug\1toN_With_Step_3.exe.config
+D:\Programirane\Advanced_Loops\1toN_With_Step_3\bin\Debug\1toN_With_Step_3.exe
+D:\Programirane\Advanced_Loops\1toN_With_Step_3\bin\Debug\1toN_With_Step_3.pdb
+D:\Programirane\Advanced_Loops\1toN_With_Step_3\obj\Debug\1toN_With_Step_3.csprojResolveAssemblyReference.cache
+D:\Programirane\Advanced_Loops\1toN_With_Step_3\obj\Debug\1toN_With_Step_3.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\1toN_With_Step_3\obj\Debug\1toN_With_Step_3.exe
+D:\Programirane\Advanced_Loops\1toN_With_Step_3\obj\Debug\1toN_With_Step_3.pdb
