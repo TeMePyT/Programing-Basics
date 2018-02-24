@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\Football_tournament\bin\Debug\Football_tournament.exe.config
+D:\Programirane\Risuvane_S_Cikli\Football_tournament\bin\Debug\Football_tournament.exe
+D:\Programirane\Risuvane_S_Cikli\Football_tournament\bin\Debug\Football_tournament.pdb
+D:\Programirane\Risuvane_S_Cikli\Football_tournament\obj\Debug\Football_tournament.csprojResolveAssemblyReference.cache
+D:\Programirane\Risuvane_S_Cikli\Football_tournament\obj\Debug\Football_tournament.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Football_tournament\obj\Debug\Football_tournament.exe
+D:\Programirane\Risuvane_S_Cikli\Football_tournament\obj\Debug\Football_tournament.pdb

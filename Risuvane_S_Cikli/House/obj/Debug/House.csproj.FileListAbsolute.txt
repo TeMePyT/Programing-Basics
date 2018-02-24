@@ -1,0 +1,7 @@
+D:\Programirane\Risuvane_S_Cikli\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\House\bin\Debug\House.exe.config
+D:\Programirane\Risuvane_S_Cikli\House\bin\Debug\House.exe
+D:\Programirane\Risuvane_S_Cikli\House\bin\Debug\House.pdb
+D:\Programirane\Risuvane_S_Cikli\House\obj\Debug\House.exe
+D:\Programirane\Risuvane_S_Cikli\House\obj\Debug\House.pdb
+D:\Programirane\Risuvane_S_Cikli\House\obj\Debug\House.csprojResolveAssemblyReference.cache

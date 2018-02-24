@@ -1,0 +1,6 @@
+D:\Programirane\Risuvane_S_Cikli\Friendly_Trip\bin\Debug\Friendly_Trip.exe.config
+D:\Programirane\Risuvane_S_Cikli\Friendly_Trip\bin\Debug\Friendly_Trip.exe
+D:\Programirane\Risuvane_S_Cikli\Friendly_Trip\bin\Debug\Friendly_Trip.pdb
+D:\Programirane\Risuvane_S_Cikli\Friendly_Trip\obj\Debug\Friendly_Trip.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Friendly_Trip\obj\Debug\Friendly_Trip.exe
+D:\Programirane\Risuvane_S_Cikli\Friendly_Trip\obj\Debug\Friendly_Trip.pdb

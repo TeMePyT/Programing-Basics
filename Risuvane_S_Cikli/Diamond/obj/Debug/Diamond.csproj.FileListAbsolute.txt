@@ -1,0 +1,6 @@
+D:\Programirane\Risuvane_S_Cikli\Diamond\bin\Debug\Diamond.exe.config
+D:\Programirane\Risuvane_S_Cikli\Diamond\bin\Debug\Diamond.exe
+D:\Programirane\Risuvane_S_Cikli\Diamond\bin\Debug\Diamond.pdb
+D:\Programirane\Risuvane_S_Cikli\Diamond\obj\Debug\Diamond.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Diamond\obj\Debug\Diamond.exe
+D:\Programirane\Risuvane_S_Cikli\Diamond\obj\Debug\Diamond.pdb

@@ -1,0 +1,6 @@
+D:\Programirane\Risuvane_S_Cikli\Current_Week\bin\Debug\Current_Week.exe.config
+D:\Programirane\Risuvane_S_Cikli\Current_Week\bin\Debug\Current_Week.exe
+D:\Programirane\Risuvane_S_Cikli\Current_Week\bin\Debug\Current_Week.pdb
+D:\Programirane\Risuvane_S_Cikli\Current_Week\obj\Debug\Current_Week.csproj.CoreCompileInputs.cache
+D:\Programirane\Risuvane_S_Cikli\Current_Week\obj\Debug\Current_Week.exe
+D:\Programirane\Risuvane_S_Cikli\Current_Week\obj\Debug\Current_Week.pdb
