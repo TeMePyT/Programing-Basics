@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\Factoriel\bin\Debug\Factoriel.exe.config
+D:\Programirane\Advanced_Loops\Factoriel\bin\Debug\Factoriel.exe
+D:\Programirane\Advanced_Loops\Factoriel\bin\Debug\Factoriel.pdb
+D:\Programirane\Advanced_Loops\Factoriel\obj\Debug\Factoriel.csprojResolveAssemblyReference.cache
+D:\Programirane\Advanced_Loops\Factoriel\obj\Debug\Factoriel.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Factoriel\obj\Debug\Factoriel.exe
+D:\Programirane\Advanced_Loops\Factoriel\obj\Debug\Factoriel.pdb

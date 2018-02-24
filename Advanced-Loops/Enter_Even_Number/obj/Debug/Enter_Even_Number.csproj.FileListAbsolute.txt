@@ -1,0 +1,7 @@
+D:\Programirane\Advanced_Loops\Enter_Even_Number\bin\Debug\Enter_Even_Number.exe.config
+D:\Programirane\Advanced_Loops\Enter_Even_Number\bin\Debug\Enter_Even_Number.exe
+D:\Programirane\Advanced_Loops\Enter_Even_Number\bin\Debug\Enter_Even_Number.pdb
+D:\Programirane\Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.csproj.CoreCompileInputs.cache
+D:\Programirane\Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.exe
+D:\Programirane\Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.pdb
+D:\Programirane\Advanced_Loops\Enter_Even_Number\obj\Debug\Enter_Even_Number.csprojResolveAssemblyReference.cache
