@@ -1,0 +1,6 @@
+D:\Programirane\Exam_28_August_2016\Axe\bin\Debug\Axe.exe.config
+D:\Programirane\Exam_28_August_2016\Axe\bin\Debug\Axe.exe
+D:\Programirane\Exam_28_August_2016\Axe\bin\Debug\Axe.pdb
+D:\Programirane\Exam_28_August_2016\Axe\obj\Debug\Axe.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_28_August_2016\Axe\obj\Debug\Axe.exe
+D:\Programirane\Exam_28_August_2016\Axe\obj\Debug\Axe.pdb

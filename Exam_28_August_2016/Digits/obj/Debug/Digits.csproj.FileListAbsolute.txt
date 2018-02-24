@@ -1,0 +1,6 @@
+D:\Programirane\Exam_28_August_2016\Digits\obj\Debug\Digits.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_28_August_2016\Digits\bin\Debug\Digits.exe.config
+D:\Programirane\Exam_28_August_2016\Digits\bin\Debug\Digits.exe
+D:\Programirane\Exam_28_August_2016\Digits\bin\Debug\Digits.pdb
+D:\Programirane\Exam_28_August_2016\Digits\obj\Debug\Digits.exe
+D:\Programirane\Exam_28_August_2016\Digits\obj\Debug\Digits.pdb

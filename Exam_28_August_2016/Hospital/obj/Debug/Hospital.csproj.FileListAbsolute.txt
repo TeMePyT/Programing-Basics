@@ -1,0 +1,6 @@
+D:\Programirane\Exam_28_August_2016\Hospital\bin\Debug\Hospital.exe.config
+D:\Programirane\Exam_28_August_2016\Hospital\bin\Debug\Hospital.exe
+D:\Programirane\Exam_28_August_2016\Hospital\bin\Debug\Hospital.pdb
+D:\Programirane\Exam_28_August_2016\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_28_August_2016\Hospital\obj\Debug\Hospital.exe
+D:\Programirane\Exam_28_August_2016\Hospital\obj\Debug\Hospital.pdb
