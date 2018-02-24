@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\0-9_to_text\bin\Debug\0-9_to_text.exe.config
+D:\Programirane\LogicheskiProverki\0-9_to_text\bin\Debug\0-9_to_text.exe
+D:\Programirane\LogicheskiProverki\0-9_to_text\bin\Debug\0-9_to_text.pdb
+D:\Programirane\LogicheskiProverki\0-9_to_text\obj\Debug\0-9_to_text.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\0-9_to_text\obj\Debug\0-9_to_text.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\0-9_to_text\obj\Debug\0-9_to_text.exe
+D:\Programirane\LogicheskiProverki\0-9_to_text\obj\Debug\0-9_to_text.pdb

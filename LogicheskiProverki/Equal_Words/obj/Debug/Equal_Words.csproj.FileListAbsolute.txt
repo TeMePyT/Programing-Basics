@@ -1,0 +1,6 @@
+D:\Programirane\LogicheskiProverki\Equal_Words\obj\Debug\Equal_Words.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Equal_Words\bin\Debug\Equal_Words.exe.config
+D:\Programirane\LogicheskiProverki\Equal_Words\bin\Debug\Equal_Words.exe
+D:\Programirane\LogicheskiProverki\Equal_Words\bin\Debug\Equal_Words.pdb
+D:\Programirane\LogicheskiProverki\Equal_Words\obj\Debug\Equal_Words.exe
+D:\Programirane\LogicheskiProverki\Equal_Words\obj\Debug\Equal_Words.pdb

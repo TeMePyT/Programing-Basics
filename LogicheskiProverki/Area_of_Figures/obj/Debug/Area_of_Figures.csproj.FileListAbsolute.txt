@@ -1,0 +1,6 @@
+D:\Programirane\LogicheskiProverki\Area_of_Figures\obj\Debug\Area_of_Figures.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Area_of_Figures\bin\Debug\Area_of_Figures.exe.config
+D:\Programirane\LogicheskiProverki\Area_of_Figures\bin\Debug\Area_of_Figures.exe
+D:\Programirane\LogicheskiProverki\Area_of_Figures\bin\Debug\Area_of_Figures.pdb
+D:\Programirane\LogicheskiProverki\Area_of_Figures\obj\Debug\Area_of_Figures.exe
+D:\Programirane\LogicheskiProverki\Area_of_Figures\obj\Debug\Area_of_Figures.pdb

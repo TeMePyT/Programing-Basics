@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\Bonus_Score\bin\Debug\Bonus_Score.exe.config
+D:\Programirane\LogicheskiProverki\Bonus_Score\bin\Debug\Bonus_Score.exe
+D:\Programirane\LogicheskiProverki\Bonus_Score\bin\Debug\Bonus_Score.pdb
+D:\Programirane\LogicheskiProverki\Bonus_Score\obj\Debug\Bonus_Score.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\Bonus_Score\obj\Debug\Bonus_Score.exe
+D:\Programirane\LogicheskiProverki\Bonus_Score\obj\Debug\Bonus_Score.pdb
+D:\Programirane\LogicheskiProverki\Bonus_Score\obj\Debug\Bonus_Score.csprojResolveAssemblyReference.cache

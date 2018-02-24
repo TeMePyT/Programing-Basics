@@ -1,0 +1,7 @@
+D:\Programirane\LogicheskiProverki\3_Equal_Numbers\bin\Debug\3_Equal_Numbers.exe.config
+D:\Programirane\LogicheskiProverki\3_Equal_Numbers\bin\Debug\3_Equal_Numbers.exe
+D:\Programirane\LogicheskiProverki\3_Equal_Numbers\bin\Debug\3_Equal_Numbers.pdb
+D:\Programirane\LogicheskiProverki\3_Equal_Numbers\obj\Debug\3_Equal_Numbers.csprojResolveAssemblyReference.cache
+D:\Programirane\LogicheskiProverki\3_Equal_Numbers\obj\Debug\3_Equal_Numbers.csproj.CoreCompileInputs.cache
+D:\Programirane\LogicheskiProverki\3_Equal_Numbers\obj\Debug\3_Equal_Numbers.exe
+D:\Programirane\LogicheskiProverki\3_Equal_Numbers\obj\Debug\3_Equal_Numbers.pdb
