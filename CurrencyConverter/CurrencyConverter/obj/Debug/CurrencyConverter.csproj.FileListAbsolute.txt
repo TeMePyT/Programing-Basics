@@ -1,0 +1,10 @@
+D:\Programirane\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\Programirane\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\Programirane\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\Programirane\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\Programirane\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+D:\Programirane\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+D:\Programirane\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Programirane\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\Programirane\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+D:\Programirane\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.FormConverter.resources
