@@ -1,7 +1,0 @@
-D:\Programirane\Exam_10_and_11_March_2018\Travel\bin\Debug\Travel.exe.config
-D:\Programirane\Exam_10_and_11_March_2018\Travel\bin\Debug\Travel.exe
-D:\Programirane\Exam_10_and_11_March_2018\Travel\bin\Debug\Travel.pdb
-D:\Programirane\Exam_10_and_11_March_2018\Travel\obj\Debug\Travel.csprojResolveAssemblyReference.cache
-D:\Programirane\Exam_10_and_11_March_2018\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
-D:\Programirane\Exam_10_and_11_March_2018\Travel\obj\Debug\Travel.exe
-D:\Programirane\Exam_10_and_11_March_2018\Travel\obj\Debug\Travel.pdb
