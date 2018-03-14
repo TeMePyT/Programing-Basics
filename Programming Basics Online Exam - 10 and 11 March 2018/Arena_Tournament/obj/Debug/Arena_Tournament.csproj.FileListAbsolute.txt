@@ -1,0 +1,7 @@
+D:\Programirane\Exam_10_and_11_March_2018\Arena_Tournament\bin\Debug\Arena_Tournament.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Arena_Tournament\bin\Debug\Arena_Tournament.exe
+D:\Programirane\Exam_10_and_11_March_2018\Arena_Tournament\bin\Debug\Arena_Tournament.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Arena_Tournament\obj\Debug\Arena_Tournament.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_10_and_11_March_2018\Arena_Tournament\obj\Debug\Arena_Tournament.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Arena_Tournament\obj\Debug\Arena_Tournament.exe
+D:\Programirane\Exam_10_and_11_March_2018\Arena_Tournament\obj\Debug\Arena_Tournament.pdb

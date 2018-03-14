@@ -1,0 +1,7 @@
+D:\Programirane\Exam_10_and_11_March_2018\ASCII_Combinations\bin\Debug\ASCII_Combinations.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\ASCII_Combinations\bin\Debug\ASCII_Combinations.exe
+D:\Programirane\Exam_10_and_11_March_2018\ASCII_Combinations\bin\Debug\ASCII_Combinations.pdb
+D:\Programirane\Exam_10_and_11_March_2018\ASCII_Combinations\obj\Debug\ASCII_Combinations.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_10_and_11_March_2018\ASCII_Combinations\obj\Debug\ASCII_Combinations.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\ASCII_Combinations\obj\Debug\ASCII_Combinations.exe
+D:\Programirane\Exam_10_and_11_March_2018\ASCII_Combinations\obj\Debug\ASCII_Combinations.pdb

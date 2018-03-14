@@ -1,0 +1,7 @@
+D:\Programirane\Exam_10_and_11_March_2018\Balls\bin\Debug\Balls.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Balls\bin\Debug\Balls.exe
+D:\Programirane\Exam_10_and_11_March_2018\Balls\bin\Debug\Balls.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Balls\obj\Debug\Balls.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_10_and_11_March_2018\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Balls\obj\Debug\Balls.exe
+D:\Programirane\Exam_10_and_11_March_2018\Balls\obj\Debug\Balls.pdb

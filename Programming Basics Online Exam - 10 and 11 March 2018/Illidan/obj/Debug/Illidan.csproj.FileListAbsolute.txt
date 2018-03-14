@@ -1,0 +1,6 @@
+D:\Programirane\Exam_10_and_11_March_2018\Illidan\bin\Debug\Illidan.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Illidan\bin\Debug\Illidan.exe
+D:\Programirane\Exam_10_and_11_March_2018\Illidan\bin\Debug\Illidan.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Illidan\obj\Debug\Illidan.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Illidan\obj\Debug\Illidan.exe
+D:\Programirane\Exam_10_and_11_March_2018\Illidan\obj\Debug\Illidan.pdb

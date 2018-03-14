@@ -1,0 +1,7 @@
+D:\Programirane\Exam_10_and_11_March_2018\Heartstone\bin\Debug\Heartstone.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Heartstone\bin\Debug\Heartstone.exe
+D:\Programirane\Exam_10_and_11_March_2018\Heartstone\bin\Debug\Heartstone.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Heartstone\obj\Debug\Heartstone.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_10_and_11_March_2018\Heartstone\obj\Debug\Heartstone.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Heartstone\obj\Debug\Heartstone.exe
+D:\Programirane\Exam_10_and_11_March_2018\Heartstone\obj\Debug\Heartstone.pdb

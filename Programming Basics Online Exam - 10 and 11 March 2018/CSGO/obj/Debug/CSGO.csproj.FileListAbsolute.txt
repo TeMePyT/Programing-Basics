@@ -1,0 +1,7 @@
+D:\Programirane\Exam_10_and_11_March_2018\CSGO\bin\Debug\CSGO.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\CSGO\bin\Debug\CSGO.exe
+D:\Programirane\Exam_10_and_11_March_2018\CSGO\bin\Debug\CSGO.pdb
+D:\Programirane\Exam_10_and_11_March_2018\CSGO\obj\Debug\CSGO.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_10_and_11_March_2018\CSGO\obj\Debug\CSGO.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\CSGO\obj\Debug\CSGO.exe
+D:\Programirane\Exam_10_and_11_March_2018\CSGO\obj\Debug\CSGO.pdb
