@@ -1,0 +1,7 @@
+D:\Programirane\Exam_10_and_11_March_2018\PCStore\bin\Debug\PCStore.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\PCStore\bin\Debug\PCStore.exe
+D:\Programirane\Exam_10_and_11_March_2018\PCStore\bin\Debug\PCStore.pdb
+D:\Programirane\Exam_10_and_11_March_2018\PCStore\obj\Debug\PCStore.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_10_and_11_March_2018\PCStore\obj\Debug\PCStore.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\PCStore\obj\Debug\PCStore.exe
+D:\Programirane\Exam_10_and_11_March_2018\PCStore\obj\Debug\PCStore.pdb

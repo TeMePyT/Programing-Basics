@@ -1,0 +1,6 @@
+D:\Programirane\Exam_10_and_11_March_2018\Picture_in_the_wall\bin\Debug\Picture_in_the_wall.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Picture_in_the_wall\bin\Debug\Picture_in_the_wall.exe
+D:\Programirane\Exam_10_and_11_March_2018\Picture_in_the_wall\bin\Debug\Picture_in_the_wall.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Picture_in_the_wall\obj\Debug\Picture_in_the_wall.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Picture_in_the_wall\obj\Debug\Picture_in_the_wall.exe
+D:\Programirane\Exam_10_and_11_March_2018\Picture_in_the_wall\obj\Debug\Picture_in_the_wall.pdb

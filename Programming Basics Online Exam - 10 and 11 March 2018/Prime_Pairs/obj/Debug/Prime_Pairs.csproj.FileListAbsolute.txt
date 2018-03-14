@@ -1,0 +1,6 @@
+D:\Programirane\Exam_10_and_11_March_2018\Prime_Pairs\bin\Debug\Prime_Pairs.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Prime_Pairs\bin\Debug\Prime_Pairs.exe
+D:\Programirane\Exam_10_and_11_March_2018\Prime_Pairs\bin\Debug\Prime_Pairs.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Prime_Pairs\obj\Debug\Prime_Pairs.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Prime_Pairs\obj\Debug\Prime_Pairs.exe
+D:\Programirane\Exam_10_and_11_March_2018\Prime_Pairs\obj\Debug\Prime_Pairs.pdb

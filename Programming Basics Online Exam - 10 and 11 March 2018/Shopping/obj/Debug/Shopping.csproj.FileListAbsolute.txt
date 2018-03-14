@@ -1,0 +1,6 @@
+D:\Programirane\Exam_10_and_11_March_2018\Shopping\bin\Debug\Shopping.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Shopping\bin\Debug\Shopping.exe
+D:\Programirane\Exam_10_and_11_March_2018\Shopping\bin\Debug\Shopping.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Shopping\obj\Debug\Shopping.exe
+D:\Programirane\Exam_10_and_11_March_2018\Shopping\obj\Debug\Shopping.pdb
