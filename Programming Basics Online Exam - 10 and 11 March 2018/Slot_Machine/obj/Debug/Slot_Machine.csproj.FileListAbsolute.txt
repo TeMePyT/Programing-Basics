@@ -1,0 +1,7 @@
+D:\Programirane\Exam_10_and_11_March_2018\Slot_Machine\bin\Debug\Slot_Machine.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Slot_Machine\bin\Debug\Slot_Machine.exe
+D:\Programirane\Exam_10_and_11_March_2018\Slot_Machine\bin\Debug\Slot_Machine.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Slot_Machine\obj\Debug\Slot_Machine.csprojResolveAssemblyReference.cache
+D:\Programirane\Exam_10_and_11_March_2018\Slot_Machine\obj\Debug\Slot_Machine.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Slot_Machine\obj\Debug\Slot_Machine.exe
+D:\Programirane\Exam_10_and_11_March_2018\Slot_Machine\obj\Debug\Slot_Machine.pdb

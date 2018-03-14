@@ -1,0 +1,6 @@
+D:\Programirane\Exam_10_and_11_March_2018\Special_Combinations\bin\Debug\Special_Combinations.exe.config
+D:\Programirane\Exam_10_and_11_March_2018\Special_Combinations\bin\Debug\Special_Combinations.exe
+D:\Programirane\Exam_10_and_11_March_2018\Special_Combinations\bin\Debug\Special_Combinations.pdb
+D:\Programirane\Exam_10_and_11_March_2018\Special_Combinations\obj\Debug\Special_Combinations.csproj.CoreCompileInputs.cache
+D:\Programirane\Exam_10_and_11_March_2018\Special_Combinations\obj\Debug\Special_Combinations.exe
+D:\Programirane\Exam_10_and_11_March_2018\Special_Combinations\obj\Debug\Special_Combinations.pdb
