@@ -1,0 +1,6 @@
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\4. Autonomy\bin\Debug\_4.Autonomy.exe.config
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\4. Autonomy\bin\Debug\_4.Autonomy.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\4. Autonomy\bin\Debug\_4.Autonomy.pdb
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\4. Autonomy\obj\Debug\4. Autonomy.csproj.CoreCompileInputs.cache
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\4. Autonomy\obj\Debug\_4.Autonomy.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\4. Autonomy\obj\Debug\_4.Autonomy.pdb

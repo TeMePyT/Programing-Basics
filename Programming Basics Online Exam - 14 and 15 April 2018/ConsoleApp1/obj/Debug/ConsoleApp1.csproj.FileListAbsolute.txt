@@ -1,0 +1,7 @@
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

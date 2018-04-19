@@ -1,0 +1,6 @@
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\5. Marguerita\bin\Debug\_5.Marguerita.exe.config
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\5. Marguerita\bin\Debug\_5.Marguerita.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\5. Marguerita\bin\Debug\_5.Marguerita.pdb
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\5. Marguerita\obj\Debug\5. Marguerita.csproj.CoreCompileInputs.cache
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\5. Marguerita\obj\Debug\_5.Marguerita.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\5. Marguerita\obj\Debug\_5.Marguerita.pdb

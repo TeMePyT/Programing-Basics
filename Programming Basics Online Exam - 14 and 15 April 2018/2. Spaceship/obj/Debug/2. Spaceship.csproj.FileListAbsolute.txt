@@ -1,0 +1,6 @@
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\2. Spaceship\bin\Debug\_2.Spaceship.exe.config
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\2. Spaceship\bin\Debug\_2.Spaceship.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\2. Spaceship\bin\Debug\_2.Spaceship.pdb
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\2. Spaceship\obj\Debug\2. Spaceship.csproj.CoreCompileInputs.cache
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\2. Spaceship\obj\Debug\_2.Spaceship.exe
+D:\Programirane\Programming Basics Online Exam - 14 and 15 April 2018\2. Spaceship\obj\Debug\_2.Spaceship.pdb
