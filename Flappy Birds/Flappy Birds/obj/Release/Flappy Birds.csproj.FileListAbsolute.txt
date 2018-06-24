@@ -1,9 +1,0 @@
-D:\Programirane\Flappy Birds\Flappy Birds\bin\Release\Flappy Birds.exe.config
-D:\Programirane\Flappy Birds\Flappy Birds\bin\Release\Flappy Birds.exe
-D:\Programirane\Flappy Birds\Flappy Birds\bin\Release\Flappy Birds.pdb
-D:\Programirane\Flappy Birds\Flappy Birds\obj\Release\Flappy_Birds.Form1.resources
-D:\Programirane\Flappy Birds\Flappy Birds\obj\Release\Flappy_Birds.Properties.Resources.resources
-D:\Programirane\Flappy Birds\Flappy Birds\obj\Release\Flappy Birds.csproj.GenerateResource.cache
-D:\Programirane\Flappy Birds\Flappy Birds\obj\Release\Flappy Birds.csproj.CoreCompileInputs.cache
-D:\Programirane\Flappy Birds\Flappy Birds\obj\Release\Flappy Birds.exe
-D:\Programirane\Flappy Birds\Flappy Birds\obj\Release\Flappy Birds.pdb
