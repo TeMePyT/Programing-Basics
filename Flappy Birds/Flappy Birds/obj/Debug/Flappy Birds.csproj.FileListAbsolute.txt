@@ -1,0 +1,10 @@
+D:\Programirane\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.csprojAssemblyReference.cache
+D:\Programirane\Flappy Birds\Flappy Birds\obj\Debug\Flappy_Birds.Form1.resources
+D:\Programirane\Flappy Birds\Flappy Birds\obj\Debug\Flappy_Birds.Properties.Resources.resources
+D:\Programirane\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.csproj.GenerateResource.cache
+D:\Programirane\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.csproj.CoreCompileInputs.cache
+D:\Programirane\Flappy Birds\Flappy Birds\bin\Debug\Flappy Birds.exe.config
+D:\Programirane\Flappy Birds\Flappy Birds\bin\Debug\Flappy Birds.exe
+D:\Programirane\Flappy Birds\Flappy Birds\bin\Debug\Flappy Birds.pdb
+D:\Programirane\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.exe
+D:\Programirane\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.pdb
